@@ -18,9 +18,7 @@ export default class Component3 extends Component {
   }
   onSubmit() {
     console.log("Input Submitted!");
-
   }
-
   onSwitchChange(value) {
     this.setState({
       switchValue: value
