@@ -1,10 +1,10 @@
 # react-native-contacts
 Contacts app developed with React-Native
 
-![Alt text](https://pp.userapi.com/c639522/v639522711/292a1/llU9My4QEFA.jpg "Optional title")
-![Alt text](https://pp.userapi.com/c639522/v639522711/29297/qlNhBUrlHoI.jpg "Optional title")
+<img src="https://pp.userapi.com/c639522/v639522711/292a1/llU9My4QEFA.jpg" width="100">
+<img src="https://pp.userapi.com/c639522/v639522711/29297/qlNhBUrlHoI.jpg" width="100">
 
-### Brief Description:
+## Brief Description:
 In this project I looked at some key aspects of the React Native framework.
 Android / iOS app.
 
@@ -12,12 +12,12 @@ This project was developed with React and React-Native
 * https://facebook.github.io/react/
 * https://facebook.github.io/react-native
 
-### Tech-Stack overview:
+## Tech-Stack overview:
 * React
 * React-Native
 * react-navigation
 
-### How to run application?
+## How to run application?
 * clone this application from github: git clone git@github.com:eiglikov/react-native-contacts.git
 * open cloned repo
 * from command line run "npm i"
