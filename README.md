@@ -1,14 +1,15 @@
 # react-native-contacts
 Contacts app developed with React-Native
 
+## Brief Description:
+In this project I looked at some key aspects of the React Native framework.
+Android / iOS app.
+
+## Screenshots:
 <div style="display: block">
 <img style="display: inline-block" src="https://pp.userapi.com/c639522/v639522711/292a1/llU9My4QEFA.jpg" width="250">
 <img style="display: inline-block" src="https://pp.userapi.com/c639522/v639522711/29297/qlNhBUrlHoI.jpg" width="250">
 </div>
-
-## Brief Description:
-In this project I looked at some key aspects of the React Native framework.
-Android / iOS app.
 
 This project was developed with React and React-Native
 * https://facebook.github.io/react/
