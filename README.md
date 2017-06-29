@@ -1,6 +1,9 @@
 # react-native-contacts
 Contacts app developed with React-Native
 
+![Alt text](https://pp.userapi.com/c639522/v639522711/292a1/llU9My4QEFA.jpg "Optional title")
+![Alt text](https://pp.userapi.com/c639522/v639522711/29297/qlNhBUrlHoI.jpg "Optional title")
+
 ### Brief Description:
 In this project I looked at some key aspects of the React Native framework.
 Android / iOS app.
