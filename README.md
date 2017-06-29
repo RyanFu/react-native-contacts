@@ -16,9 +16,9 @@ This project was developed with React and React-Native
 * https://facebook.github.io/react-native
 
 ## Tech-Stack overview:
-* React
-* React-Native
-* react-navigation
+* React https://facebook.github.io/react/
+* React-Native https://facebook.github.io/react-native
+* react-navigation https://reactnavigation.org/
 
 ## How to run application?
 * clone this application from github: git clone git@github.com:eiglikov/react-native-contacts.git
