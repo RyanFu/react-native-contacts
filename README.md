@@ -1,9 +1,10 @@
 # react-native-contacts
 Contacts app developed with React-Native
 
-<img src="https://pp.userapi.com/c639522/v639522711/292a1/llU9My4QEFA.jpg" width="100">
-<img src="https://pp.userapi.com/c639522/v639522711/29297/qlNhBUrlHoI.jpg" width="100">
-
+<div style="display: block">
+<img style="display: inline-block" src="https://pp.userapi.com/c639522/v639522711/292a1/llU9My4QEFA.jpg" width="320">
+<img style="display: inline-block" src="https://pp.userapi.com/c639522/v639522711/29297/qlNhBUrlHoI.jpg" width="320">
+</div>
 ## Brief Description:
 In this project I looked at some key aspects of the React Native framework.
 Android / iOS app.
